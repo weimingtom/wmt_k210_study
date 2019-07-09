@@ -9,6 +9,7 @@ https://github.com/gnu-mcu-eclipse/riscv-none-gcc/releases
 
 ## riscv64-unknown-elf-gcc  
 https://kendryte.com/downloads/  
+https://github.com/kendryte/kendryte-gcc  
 
 ## riscv-cores-list  
 https://github.com/riscv/riscv-cores-list  

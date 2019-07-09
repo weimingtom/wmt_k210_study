@@ -1,0 +1,16 @@
+Using built-in specs.
+COLLECT_GCC=riscv64-unknown-elf-gcc.exe
+COLLECT_LTO_WRAPPER=e:/k210/kendryte-toolchain/bin/../libexec/gcc/riscv64-unknow
+n-elf/8.2.0/lto-wrapper.exe
+Target: riscv64-unknown-elf
+Configured with: /d/Work/Repository/kendryte-gnu-toolchain/riscv-gcc/configure -
+-target=riscv64-unknown-elf --prefix=/opt/kendryte-toolchain --disable-shared --
+enable-threads=posix --enable-languages=c,c++ --enable-libatomic --with-system-z
+lib --enable-tls --with-newlib --with-sysroot=/opt/kendryte-toolchain/riscv64-un
+known-elf --with-native-system-header-dir=/include --disable-libmudflap --disabl
+e-libssp --disable-libquadmath --disable-libgomp --disable-nls --src=.././riscv-
+gcc --enable-checking=yes --disable-multilib --with-abi=lp64f --with-arch=rv64im
+afc 'CFLAGS_FOR_TARGET=-Os -ffunction-sections -fdata-sections  -mcmodel=medany'
+ 'CXXFLAGS_FOR_TARGET=-Os -ffunction-sections -fdata-sections -mcmodel=medany'
+Thread model: posix
+gcc version 8.2.0 (GCC)

@@ -1,0 +1,24 @@
+Using built-in specs.
+COLLECT_GCC=riscv-none-embed-gcc.exe
+COLLECT_LTO_WRAPPER=e:/k210/gnu\ mcu\ eclipse/risc-v\ embedded\ gcc/8.2.0-2.2-20
+190521-0004/bin/../libexec/gcc/riscv-none-embed/8.2.0/lto-wrapper.exe
+Target: riscv-none-embed
+Configured with: /Host/home/ilg/Work/riscv-none-gcc-8.2.0-2.2/sources/riscv-none
+-gcc-8.2.0-2/configure --prefix=/Host/home/ilg/Work/riscv-none-gcc-8.2.0-2.2/win
+32-x32/install/riscv-none-gcc --infodir=/Host/home/ilg/Work/riscv-none-gcc-8.2.0
+-2.2/win32-x32/install/riscv-none-gcc/doc/info --mandir=/Host/home/ilg/Work/risc
+v-none-gcc-8.2.0-2.2/win32-x32/install/riscv-none-gcc/doc/man --htmldir=/Host/ho
+me/ilg/Work/riscv-none-gcc-8.2.0-2.2/win32-x32/install/riscv-none-gcc/doc/html -
+-pdfdir=/Host/home/ilg/Work/riscv-none-gcc-8.2.0-2.2/win32-x32/install/riscv-non
+e-gcc/doc/pdf --build=i686-pc-linux-gnu --host=i686-w64-mingw32 --target=riscv-n
+one-embed --with-pkgversion='GNU MCU Eclipse RISC-V Embedded GCC\x2C 32-bit' --e
+nable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --di
+sable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --di
+sable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disab
+le-threads --disable-tls --enable-checking=yes --with-gnu-as --with-gnu-ld --wit
+h-newlib --with-headers=yes --with-python-dir=share/gcc-riscv-none-embed --with-
+sysroot=/Host/home/ilg/Work/riscv-none-gcc-8.2.0-2.2/win32-x32/install/riscv-non
+e-gcc/riscv-none-embed --with-abi=ilp32 --with-arch=rv32imac --disable-rpath --d
+isable-build-format-warnings --with-system-zlib
+Thread model: single
+gcc version 8.2.0 (GNU MCU Eclipse RISC-V Embedded GCC, 32-bit)

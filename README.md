@@ -16,4 +16,5 @@ https://github.com/kendryte/kendryte-gnu-toolchain
 https://github.com/riscv/riscv-cores-list  
 
 ## eML, LicheeDan_K210_examples  
+https://github.com/Lichee-Pi/LicheeDan_K210_examples  
 https://github.com/fjpolo/eML/tree/master/LicheeDan_K210_examples  

@@ -18,3 +18,7 @@ https://github.com/riscv/riscv-cores-list
 ## eML, LicheeDan_K210_examples  
 https://github.com/Lichee-Pi/LicheeDan_K210_examples  
 https://github.com/fjpolo/eML/tree/master/LicheeDan_K210_examples  
+
+## dino game, 恐龙游戏    
+https://github.com/kendryte/PaddlePi  
+https://github.com/kendryte/PaddlePi/tree/master/AI-algorithms-demos/demo/dino_game  
